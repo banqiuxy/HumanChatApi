@@ -163,3 +163,8 @@ humanchatapi/
 - 会话数据存于内存，**只有手动关闭或重启服务才消失**
 - 外网部署需自行配置内网穿透暴露 `1234` 端口
 - V1.0 不实现接口鉴权
+
+## 许可证
+
+本项目使用 **GNU General Public License v3.0**。
+详见 [LICENSE](./LICENSE) 文件。
